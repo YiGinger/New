@@ -1,3 +1,6 @@
+The title
+======
+
 ---
 title       : Title
 subtitle    : Subtitle
@@ -16,9 +19,8 @@ mode        : selfcontained # {standalone, draft}
 2. Write using R Markdown
 3. Use an empty line followed by three dashes to separate slides!
 
---- .class #id 
 
-## Slide 2
+## Slide 
 
 
 
