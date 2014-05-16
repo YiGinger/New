@@ -1,5 +1,3 @@
-The title
-======
 
 ---
 title       : Title
@@ -12,6 +10,10 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
+
+The title
+======
+
 
 ## Read-And-Delete
 
