@@ -7,13 +7,15 @@ framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 mode        : selfcontained # {standalone, draft}
 ---
 
-The title
+R codes
 ======
 
 
-This repository contains some R codes of data analysis, including __Linear__ __Regression__, __Generalized__ __Linear__ __Regression__,__Time__ __Series__
+This repository contains some R codes of data analysis, including 
 
-## Slide 
+1. __Linear__ __Regression__
+2. __Generalized__ __Linear__ __Regression__
+3. __Time__ __Series__ __Analysis__
 
 
 
